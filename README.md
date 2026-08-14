@@ -56,7 +56,7 @@ Sometimes a good anime is all you need after a long day of coding. 🍊🌸
 
 <div align="center">
 
-<img src="assets/Rintaro%20Tsumugi.jpg" width="700">
+<img src="assets/Rintaro%20Tsumugi.jpg" width="300">
 
 <br><br>
 
