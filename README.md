@@ -1,57 +1,111 @@
 <div align="center">
 
-# 🌌 Aoi Kiyora
+# 🌸 Aoi Kiyora
 
-### 🎌 Anime × IT Developer 💻
+### 🎌 Anime • Coding • Creativity
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aoi%20Kiyora&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Anime%20%7C%20Code%20%7C%20Create&descAlignY=55&descSize=18" width="100%"/>
+<table>
+<tr>
+<td width="50%">
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AoiKiyora&label=Profile%20Views&color=667eea&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AoiKiyora?label=Followers&style=for-the-badge&color=764ba2" />
-</p>
+<img src="assets/Rintaro Tsumugi.jpg" width="100%" alt="Anime Couple 01">
+
+</td>
+<td width="50%">
+
+<img src="assets/Waguri Kaoruko.jpg" width="100%" alt="Anime Couple 02">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**🌸 Two stories • Two characters • One beautiful world 🌸**
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🌸 About Me
+
+<div align="center">
 
 ```text
-╭──────────────────────────────────────────────╮
-│                 AOI KIYORA                   │
-├──────────────────────────────────────────────┤
-│ 🎌 Anime enthusiast                          │
-│ 💻 IT / Software Development                 │
-│ 🌱 Always learning something new             │
-│ 🎨 Love beautiful & creative interfaces      │
-│ 🚀 Building projects one line at a time      │
-╰──────────────────────────────────────────────╯
+╭────────────────────────────────────────────╮
+│                                            │
+│              ✦ AOI KIYORA ✦               │
+│                                            │
+│       🎌 Anime enthusiast                  │
+│       💻 Coding & Development              │
+│       🎨 Creative & Visual Design          │
+│       🌱 Always learning                   │
+│       ✨ Creating something beautiful      │
+│                                            │
+╰────────────────────────────────────────────╯
 ```
 
-> 🌸 *"Code is not only about making things work — it's about creating something meaningful."*
+> *"Every story has its own color."* 🌸
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🎌 Anime Collection
 
-### 🌐 Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<table>
+<tr>
 
-### 🗄️ Database
+<td width="50%">
+<img src="assets/anime-01.jpg" width="100%">
+<br><br>
+### 🍊 Rintaro × Tsumugi
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
-</p>
+<td width="50%">
+<img src="assets/anime-02.jpg" width="100%">
+<br><br>
+### 🌸 Waguri × Kaoruko
+</td>
 
-### 🛠️ Tools
+</tr>
+</table>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
+</div>
+
+---
+
+## 💻 Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,mssql,git,github,vscode,visualstudio">
+
+</div>
+
+---
+
+## 📚 Featured Project
+
+### 🛒 Online Comic Management System
+
+A web-based system for managing and selling comics online.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript` `SQL Server`
+
+**Features**
+
+* 📚 Comic management
+* 🏷️ Category management
+* 👤 Customer management
+* 🛒 Shopping cart
+* 📦 Order management
+* 💰 Invoice management
+* 🗄️ SQL Server Database
 
 ---
 
@@ -59,9 +113,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AoiKiyora&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AoiKiyora&show_icons=true&hide_border=true&title_color=ff8a65&icon_color=f29aaa&text_color=555555&bg_color=fffaf7&border_radius=15" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoiKiyora&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoiKiyora&layout=compact&hide_border=true&title_color=ff8a65&text_color=555555&bg_color=fffaf7&border_radius=15" width="40%">
 
 </div>
 
@@ -69,85 +123,38 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AoiKiyora&theme=tokyonight&hide_border=true&border_radius=15" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=AoiKiyora&hide_border=true&background=FFFAF7&ring=F29AAA&fire=FF8A65&currStreakLabel=FF8A65&border_radius=15" width="70%">
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### 📚 IT-Anime
-
-> 🌸 Anime × IT personal project
-
-**Technologies**
-
-`HTML` `CSS` `JavaScript` `SQL Server`
-
----
-
-### 🛒 Online Comic Management System
-
-> 📖 A system for managing and selling comics online.
-
-**Features**
-
-* 📚 Comic management
-* 👤 Customer management
-* 🛒 Shopping cart
-* 📦 Order management
-* 💰 Payment / invoice management
-* 🗄️ SQL Server database
-
----
-
-## 🎌 Anime Corner
+## 🌸 Anime Mood
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║              🌸 ANIME × LIFE 🌸             ║
-║                                              ║
-║       "A world without anime? Impossible."  ║
-║                                              ║
-║              🎧 🎮 📖 💻 ✨                  ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+          🌸       🍊       🌸
+
+       🎌  ANIME IS A WORLD  🎌
+
+          🍊       ✨       🍊
+
+       Stories • Dreams • Memories
+
+          🌸       🍊       🌸
 ```
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AoiKiyora/AoiKiyora/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AoiKiyora&theme=tokyo-night&hide_border=true&radius=15" width="95%"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Find Me
 
 <div align="center">
 
 <a href="https://github.com/AoiKiyora">
-<img src="https://img.shields.io/badge/GitHub-AoiKiyora-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-AoiKiyora-24292f?style=for-the-badge&logo=github">
 </a>
 
 </div>
@@ -156,10 +163,12 @@
 
 <div align="center">
 
-### 🌸 Thanks for visiting my profile! 🌸
+### 🌸 Thank you for visiting my profile 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%"/>
+**🎌 Anime • 💻 Coding • ✨ Creativity**
 
-**💻 Code • 🎌 Anime • 🚀 Create**
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6c9,50:ffb38a,100:f29aaa&height=130&section=footer" width="100%">
 
 </div>
