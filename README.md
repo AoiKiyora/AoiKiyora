@@ -1,66 +1,42 @@
-<h2>👋 Hi there, I'm Aoi Kiyora!</h2>
-
-<img src="assets/Rintaro%20Tsumugi.jpg" width="300" align="right">
-
-I'm a casual developer who enjoys coding, anime, and creating things just for fun. <br>
-I like exploring new technologies, experimenting with ideas, and learning something new along the way. <br><br>
-Currently exploring modern web development, programming, UI/UX, and building personal projects one line of code at a time. 🌸
-
-[🌐 Visit My Website](https://aoikiyora.github.io/)
-<br clear="right">
-
-<h3>🌐 Tech stack</h3>
-
-![](https://skillicons.dev/icons?i=html,css,js,python,java,nodejs)
-
-<h3>🛠️ Tools</h3>
-
-![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)
-
-<h3>🎌 Anime</h3>
-
-<img src="assets/Waguri%20Kaoruko.jpg" width="300" align="right">
-
-Anime is one of the things I enjoy in my free time. <br>
-I like discovering interesting characters, stories, artwork, and soundtracks. <br><br>
-Sometimes a good anime is all you need after a long day of coding. 🍊🌸
-
-<br clear="right">
-
-<h3>📚 Currently working on</h3>
-
-* 💻 Web development projects
-* 📖 Online comic management system
-* 🗄️ SQL Server database projects
-* 🎨 Modern UI/UX interfaces
-* 🌱 Learning new technologies
-
-<h3>📫 Contact</h3>
-
-💻 GitHub: [AoiKiyora](https://github.com/AoiKiyora)
-
-🌸 Profile: [github.com/AoiKiyora](https://github.com/AoiKiyora)
-
-<h3>✨ Interests</h3>
-
-🎌 Anime & Manga
-💻 Programming
-🎨 UI/UX Design
-🎮 Games
-📚 Learning new things
-
-<h3>🌸 A little quote</h3>
-
-> *"Keep learning, keep creating, and enjoy the journey."* ✨
-
-<br>
-
 <div align="center">
 
-<img src="assets/Rintaro%20Tsumugi.jpg" width="300">
+# 👋 Hi there, I'm Aoi Kiyora! 🌸
 
-<br><br>
+**Anime Enthusiast • osu! Circle Clicker • Casual Developer**
 
-**Anime • Code • Create • Enjoy**
+[🌐 Visit My Website](https://aoikiyora.github.io/)
+
+---
 
 </div>
+
+<img src="assets/Rintaro%20Tsumugi.jpg" width="280" align="right" alt="Rintaro Tsumugi" style="border-radius: 10px; margin-left: 15px;">
+
+### 👨‍💻 About Me
+
+I'm a casual developer who loves coding, watching anime, and clicking circles in **osu!**. I enjoy exploring modern tech, experimenting with personal projects, and constantly learning new things one line of code (or one beatmap) at a time. 🎮⚡
+
+* 💻 **Exploring:** Modern Web Development, UI/UX, & Database Management
+* 🎯 **osu! Main:** Rapid Trigger Keyboard & Tablet Playstyle
+* 🌸 **Vibe:** Coding with anime OSTs on loop
+
+<br clear="right">
+
+---
+
+### 🌐 Tech Stack & Tools
+
+**Languages & Frameworks**
+![](https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,express,bootstrap)
+
+**Tools & Environment**
+![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman)
+
+---
+
+### 🎯 osu! Stats & Setup
+
+```text
+Playstyle : Tablet + Keyboard (AULA HERO 68 - Rapid Trigger 0.6mm / AP 0.4mm)
+Mode      : osu!standard
+Status    : See you next time! ⭕
